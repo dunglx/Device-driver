@@ -1,0 +1,5 @@
+config LEDS_GPIO_SYSFS
+	bool
+	help
+	  DungLX test thu viec su dung sysfs de dieu khien cac led gpio.
+
